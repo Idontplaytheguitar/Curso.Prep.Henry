@@ -3,7 +3,7 @@ body {
 }
 
 div {
-    flex-shrink: 200px;
+
     text-align: center;
 }
 
@@ -30,3 +30,6 @@ h1 {
       margin: 50px;
   }
   
+  .divClass{
+      border-color: lawngreen;
+  }
