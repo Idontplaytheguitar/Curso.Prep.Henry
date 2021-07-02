@@ -1,0 +1,5 @@
+* Objetos: Todo en javascript es un objeto. Los objetos tienen prototipos los cuales a su vez tienen propiedades por defecto, y pueden ser modificadas. Un objeto puede ser creado de la misma forma que un array, siendo encerrado entre {} en vez de []. En vez de tener un índice numérico, tienen uno que nosotros le asignamos, el cual puede ser un string.	
+* Propiedades: Una propiedad es una caracteristica disponible de determinado objeto. Por ejemplo, si ponemos se utiliza .length despues de un string, nos dice la cantidad de caracteres en ese string.	
+* Métodos: Los métodos son funciones en un objeto, los cuales pueden ser heredados por otros objetos, gracias al prototipo o las clases.
+* Bucle `for…in`: Los bucles for... in son como el for, con la diferencia de que en vez de iterar un número concreto de veces, itera sobre un clave en determinado objeto. 	
+* Notación de puntos vs notación de corchetes: La notación de puntos (usuario.clave) es mas facil de escribir, mientras que la de corchetes (usuario[clave] puede llegar a tener mas opciones a la hora de modificarlo.)

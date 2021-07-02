@@ -1,0 +1,1 @@
+Arrays: Los arrays pueden contener cualquier tipo de informació separada por comas ",". Cada elemento que contenga una array tiene un número para identificarlo según el lugar que ocupe el mismo dentro del array, siendo el primero "0". Se encierran entre [].

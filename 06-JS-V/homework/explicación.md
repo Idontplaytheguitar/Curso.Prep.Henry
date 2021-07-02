@@ -1,0 +1,2 @@
+* `prototype`: Todo tiene un prototipo, el cual tiene propiedades y puede ser modificado. Cuando le asignamos un protoipo a una clase, podemos darle métodos para simplificar tareas y no repetirnos al escribir código, de manera que el mismo sea mucho mas eficiente.
+* _Constructors_ (de Clases): Los constructores de clases se utilizan para crear distintas instancias de un objeto con las mismas propiedades pero diferentes valores (y a veces métodos).
